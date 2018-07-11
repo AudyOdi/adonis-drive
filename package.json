@@ -20,7 +20,7 @@
   "author": "virk",
   "license": "MIT",
   "dependencies": {
-    "@slynova/flydrive": "^0.3.0"
+    "@slynova/flydrive": "git+https://github.com/AudyOdi/node-flydrive.git"
   },
   "devDependencies": {
     "@adonisjs/fold": "^4.0.7",
